@@ -38,6 +38,5 @@ Prerequisites: You need a C compiler (like GCC) installed on your system. 'Note:
 ## Clone the repository:
    ```bash
    git clone [https://github.com/abdulsamadshahid125-dev/algo-mart.git](https://github.com/abdulsamadshahid125-dev/algo-mart.git)
-
-
+```
 Author: Abdul Samad Shahid
